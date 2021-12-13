@@ -1058,5 +1058,12 @@
         "addresses": [
             "alpha.rip"
         ]
+    },
+       {
+        "id": "donutsmp",
+        "name": "DonutSMP",
+        "addresses": [
+            "donutsmp.net"
+        ]
     }
 ]
